@@ -5,6 +5,18 @@ First, run the development server:
 npm install
 npm run dev
 
+## Tools
+
+- Nextjs
+- Typescript
+- radix-ui
+- axios
+- bcrypt
+- cloudinary
+- draft-js
+- next-auth
+- react-hook-form
+- tailwindcss
 
 ![image](https://github.com/Guilhermelolidev/Blogify/assets/141258877/991e838b-da15-46e0-9607-02896a187a0d)
 
